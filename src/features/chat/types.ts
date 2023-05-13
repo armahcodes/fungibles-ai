@@ -1,6 +1,6 @@
 import { z } from "zod";
 
-export const SYSTEM = "Fungibles";
+export const SYSTEM = "system";
 export const USER = "user";
 export const ASSISTANT = "assistant";
 
